@@ -44,8 +44,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br/>
 
 <a href="https://github.com/sushantsn">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sushantsn&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantsn&theme=buefy&layout=compact" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sushantsn&theme=buefy&show_icons=true" /> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantsn&theme=buefy&layout=compact" />
 </a>
 
 <br/>
