@@ -1,12 +1,16 @@
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<h2> Hey there! I'm Sushant.</h2>
 
-- :telescope: I’m on a journey to become a Software Engineer and contributing to frontend and backend for building web applications.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- :seedling: Exploring Technical Content Writing.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :telescope: I’m on a journey to become a Software Engineer and contributing to frontend and backend for building web applications
 
-- :writing_hand: Love reading books and having discourse over them.
+- :seedling: Learning various technologies
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles
+
+- :writing_hand: Love reading books and having discourse over them
 
 
 
@@ -14,7 +18,45 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  [![General badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sushant4e)
 
 
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
+- 💻 &nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+- 🌐 &nbsp;
+ <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+
+- 🛢 &nbsp;
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+ 
+- ⚙️ &nbsp;
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+- 🔧 &nbsp;
+ ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+
+- 🎨 &nbsp;
+   <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
+
+
+### :fire: My Stats :
+<br/>
+
+<a href="https://github.com/sushantsn">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sushantsn&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantsn&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://sushant.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sushant.tech-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/sushantn/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sushantn-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:syedammarilyas@.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact@sushant.tech-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 ---
 
@@ -40,4 +82,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
