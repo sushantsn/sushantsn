@@ -20,13 +20,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m currently working on [online doctor appointment system](github.com/sushantsn/healthplus)
 
-- 👨‍💻 All of my projects are available at [sushant.tech](sushant.tech)
+- 👨‍💻 All of my projects are available at [sushantsn.github.io](sushantsn.github.io)
 
-- 📝 I regularly write articles on [sushant.tech/blog](sushant.tech/blog)
+- 📝 I regularly write articles on [sushantsn.github.io/blog](sushantsn.github.io/blog)
 
-- 📫 How to reach me **contact@sushant.tech**
+- 📫 How to reach me **sushantsnar@gmail.com**
 
-- 📄 Know about my experiences [sushant.tech/resume](sushant.tech/resume)
+- 📄 Know about my experiences [sushantsn.github.io/resume](sushantsn.github.io/resume)
 
 - ⚡ Fun fact **I love to design and develop**
 
