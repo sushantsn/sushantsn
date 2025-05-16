@@ -22,7 +22,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👨‍💻 All of my projects are available at [sushantsn.github.io](sushantsn.github.io)
 
-- 📝 I regularly write articles on [sushantsn.github.io/blog](sushantsn.github.io/posts/)
+- 📝 I regularly write articles on [sushantsn.github.io/posts/](sushantsn.github.io/posts/)
 
 - 📫 How to reach me **sushantsnar@gmail.com**
 
