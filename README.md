@@ -18,15 +18,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :writing_hand: Love reading books and having discourse over them
 
-- 🔭 I’m currently working on [online doctor appointment system](github.com/sushantsn/healthplus)
-
 - 👨‍💻 All of my projects are available at [sushantsn.github.io](sushantsn.github.io)
 
 - 📝 I regularly write articles on [sushantsn.github.io/posts](https://sushantsn.github.io/posts/)
 
 - 📫 How to reach me **sushantsnar@gmail.com**
 
-- 📄 Know about my experiences [sushantsn.github.io/resume](sushantsn.github.io/resume)
+- 📄 Know about my experiences [sushantsn.github.io/resume](https://sushantsn.github.io/documents/SushantNarvekarResume.pdf)
 
 - ⚡ Fun fact **I love to design and develop**
 
